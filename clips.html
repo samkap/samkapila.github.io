@@ -1,0 +1,13 @@
+---
+title: Clips
+layout: page
+---
+
+  {% for post in site.posts %}
+   {% if post.categories contains 'notes' %}
+
+
+    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {{ post.date | date: site.date_format }}</small></p>
+
+      {% endif %}
+  {% endfor %}

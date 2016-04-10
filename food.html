@@ -1,11 +1,13 @@
 ---
-title: Time Machine
+title: Food
 layout: page
 ---
 
 
   {% for post in site.posts %}
 
+
+   
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
@@ -15,6 +17,8 @@ layout: page
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
-
+ 
+   {% if post.categories contains 'food' %}
     <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {{ post.date | date: site.date_format }}</small></p>
+         {% endif %}
   {% endfor %}

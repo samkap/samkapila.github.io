@@ -3,8 +3,8 @@ layout: default
 home: true
 ---
 
-
-
+</div>
+<div class="recent-posts">
 {% for post in paginator.posts %}
 
 {% assign minutes = post.content | number_of_words | divided_by: 180 %}
@@ -16,16 +16,8 @@ home: true
 
   <article>
     <span class="meta">
-      {% if site.display-author-front-page %}
-        {% if post.author.name %}
-          {{ post.author.name }} •
-        {% else %}
-          {% if site.author.name %}
-            {{ site.author.name }} •
-          {% endif %}
-        {% endif %}
-      {% endif %}
-      {{ post.date | date: site.date_format }} • {{ read-time }}</span>
+
+      {{ post.date | date: site.date_format }}</span>
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
       <p>
       {% if post.summary %}
@@ -37,7 +29,10 @@ home: true
 
   </article>
 {% endfor %}
-
+</div>
+<!-- <div class="wrap pagination-home" style="display:block; width: 100%; clear: both;">
 {% if paginator.previous_page or paginator.next_page %}
   {% include pagination.html %}
 {% endif %}
+
+</div> -->

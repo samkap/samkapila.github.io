@@ -16,10 +16,20 @@
   height: 0;
 }
 
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  
+  box-sizing: border-box; 
+}
+
 /* Content */
 
 body {
-  font-family: "Crimson Text", Georgia, Cambria, "Times New Roman", Times, serif;
+  /*font-family: "Crimson Text", Georgia, Cambria, "Times New Roman", Times, serif;*/
+  font-family:'DIN Next W01', Helvetica, Arial;
+
   font-size: 22px;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
@@ -96,8 +106,7 @@ img {
   text-align: center;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Source Sans Pro", Verdana, sans-serif;
-  font-weight: 900;
+  font-weight: 700;
   background-image: none;
   text-decoration: none !important;
   word-wrap: break-word;
@@ -262,21 +271,21 @@ nav {
 article {
   margin-top: 30px;
 }
-article::after,
-header::after {
-  margin: 50px 0;
-  content: "•";
-  line-height: 0;
-  font-size: 60px;
-  display: block;
-  text-align: center;
-  color: rgba({{ site.theme-color }}, 0.4);
-}
-article:last-of-type::after {
-  content: "";
-  margin-top: 80px;
-  margin-bottom: 0;
-}
+// article::after,
+// header::after {
+//   margin: 50px 0;
+//   content: "•";
+//   line-height: 0;
+//   font-size: 60px;
+//   display: block;
+//   text-align: center;
+//   color: rgba({{ site.theme-color }}, 0.4);
+// }
+// article:last-of-type::after {
+//   content: "";
+//   margin-top: 80px;
+//   margin-bottom: 0;
+// }
 a.read-more {
   display: inline-block;
   background-image: none;
@@ -479,9 +488,32 @@ nav a.current {
   h1 {
     font-size: 2.9em;
   }
-  article:last-of-type::after {
+
+  .recent-posts {
+    display: flex; 
+    justify-content: space-between;
+    /*flex-wrap: wrap;*/
+    background: #eee;
+    padding: 2em 5%;
+
+    article {
+      /*    float:left;*/
+          /*flex-grow: 1;*/
+          width: 30%;
+          flex: 1;
+                margin: 0 20px;
+          
+          h1 {
+            font-size: 90%;
+          }
+          p {
+            font-size: 75%;
+          }
+        }
+}
+/*  article:last-of-type::after {
     content: "";
     margin-top: 120px;
     margin-bottom: 0;
-  }
+  }*/
 }
