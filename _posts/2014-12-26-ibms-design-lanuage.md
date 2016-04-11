@@ -9,7 +9,7 @@ Tags:
 - student-work
 - teaching
 - process
-
+cover-image: ibm.jpg
 
 --- 
 
@@ -20,7 +20,8 @@ Recently, IBM Design released and shared their [Design Language](http://www.ibm.
 Documentation within the interaction side of design (apps, websites, mobile...basically anything that isn't print) is becoming more popular, and we’re seeing the value of looking at and thinking about design elements as systems. Rather than designing page-by-page or screen-by-screen it's about the shared and unique elements and how they may be recycled or reused from interaction-to-interaction. We see this, usually, in branding theories or modular grid systems, and in places where the goal is modular thinking (it’s being discussed in the use of online style guides and thoughts such as [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)), but it’s exciting to see this become everyday vernacular and process. Even Google’s [Material](http://www.google.com/design/spec/material-design/introduction.html) flirts with this. A lot of this sort of thinking brings together a more cohesive design, considers accessibility, worships content, and shows just how much thought we can put into our process, proving that design is more than a pretty face (we knew this, but still).  
 
 Here is Miles, speaking about his process on the Design Language site. I’m one proud teacher.
-</p>
+
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/x9AbRP7d7Ks" frameborder="0" allowfullscreen></iframe>
 
 
