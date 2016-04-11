@@ -1,7 +1,5 @@
 ---
 layout: post
----
-layout: post
 title: Design 1-Up — A Panel at Mass Comm Week
 Date: 2012-11-03
 Desc: A recap of a Design Panel with Courtney Buie and Anthony Armendariz during Texas State University's Mass Communication Week

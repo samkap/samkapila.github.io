@@ -8,7 +8,8 @@ Tags:
 - design
 - travel
 - the-iron-yard
+cover-image: 
 ---
 Hugs with Draplin!
-![hugs with draplin](http://www.samkapila.com/content/01-journal/66-grok-in-one-photo/draplin.gif)
+![Hugs with Draplin]({{ site.baseurl }}/img/posts/draplin.gif)
 (Photos by Nathan Spainhour)

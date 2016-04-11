@@ -12,6 +12,7 @@ Tags:
 - typography
 - education
 
+category: clips
 
 --- 
 

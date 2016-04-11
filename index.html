@@ -3,8 +3,16 @@ layout: default
 home: true
 ---
 
+<p class="intro">
+Hi! I’m Sam Kapila. I’m a designer and educator living in Austin, TX. I’m the Director of Instruction at <a href="http://www.theironyard.com">The Iron Yard</a>. I write a monthly column for <a href="">net magazine</a>. I make a lot of <a href="">playlists</a>. I cook a lot and <a href="">photograph</a> it.
+</p>
+
+
 </div>
+<div class="gray">
+<h3> Recent </h3>
 <div class="recent-posts">
+
 {% for post in paginator.posts %}
 
 {% assign minutes = post.content | number_of_words | divided_by: 180 %}
@@ -20,15 +28,16 @@ home: true
       {{ post.date | date: site.date_format }}</span>
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
       <p>
-      {% if post.summary %}
+<!--       {% if post.summary %}
         {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
-      {% else %}
+      {% else %} -->
         {{ post.excerpt | remove: '<p>' | remove: '</p>' }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
-      {% endif %}
+      <!-- {% endif %} -->
       </p>
 
   </article>
 {% endfor %}
+</div>
 </div>
 <!-- <div class="wrap pagination-home" style="display:block; width: 100%; clear: both;">
 {% if paginator.previous_page or paginator.next_page %}
