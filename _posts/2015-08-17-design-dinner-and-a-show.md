@@ -17,7 +17,7 @@ Tags:
 
 --- 
 
-*This piece was originally writen and published for [The Pastry Box Project](https://the-pastry-box-project.net/sameera-kapila/2015-august-14)*
+*This piece was originally written and published for [The Pastry Box Project](https://the-pastry-box-project.net/sameera-kapila/2015-august-14)*
 
 <p>Whenever I worked on design projects, I always used to get stuck. I’d become nervous, vulnerable, and incapable, questioning the project, comparing my work to others, and beating myself up. I’d do what a lot of fresh out of school designers would do, which was something that we were taught. In art school, I remember being told that to become a better artist and designer, my peers and I should try to emulate the greats, so we could learn their process and see a piece through the artist’s eye. There was a promise of being able to get back on track after that. As an UI Design Instructor at The Iron Yard for the past year, and as a university lecturer for the previous six years, I’ve uttered the exact same advice I received in school—except now, students are emulating Codepens and tracing over icons and illustrations on Dribble, and then getting back on track.</p>
 

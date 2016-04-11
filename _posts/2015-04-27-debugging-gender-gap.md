@@ -9,6 +9,7 @@ Tags:
 - design
 - tech
 - education
+category: clips
 
 ---
 

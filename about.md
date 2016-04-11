@@ -7,10 +7,36 @@ Hi! I’m Sam Kapila. I’m a designer, educator, and person living in Austin, T
 
 ---
 
+### Currently Eating:
+
+Home-made naan pizza
+
+### Currently Reading:
+
+<style>
+.gr_grid_container {
+/* customize grid container div here. eg: width: 500px; */
+}
+.gr_grid_book_container {
+/* customize book cover container div here */
+width: 98px;
+height: 160px;
+padding: 30px 0px;
+overflow: hidden;
+}
+</style>
+<div id="gr_grid_widget_1403892312">
+<!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+<div class="gr_grid_container">
+<div class="gr_grid_book_container"><a href="https://www.goodreads.com/book/show/17860739-s" title="S."><img alt="books I'm reading" src="https://d.gr-assets.com/books/1378767595m/17860739.jpg" /></a></div>
+<noscript><br/>Share <a href="/">book reviews</a> and ratings with samkap, and even join a <a href="https://www.goodreads.com/group">book club</a> on Goodreads.</noscript>
+</div>
+</div>
+<script src="https://www.goodreads.com/review/grid_widget/8459271.samkap's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1403892312" type="text/javascript" charset="utf-8"></script>
+
+---
+
 I speak and write about design and design education. Here’s some of that: 
-
-
-
 
 
 <div class="about">
@@ -59,3 +85,18 @@ I speak and write about design and design education. Here’s some of that:
 <li><a class="bold" href="http://5by5.tv/eastwing/52" target="_blank">The East Wing</a>, Apr 2013</li>
 <li><a class="bold" href="http://5by5.tv/frequency/27" target="_blank">The Frequency</a>, Nov 2012</li>
 </ul>
+
+<hr>
+
+<h3>Elsewhere</h3>
+    <ul>
+      <li><a href="http://www.twitter.com/samkap">Tweeting on Twitter</a></li>
+      <li><a href="http://codepen.io/samkap">Experimenting on Codepen</a></li>
+      <li><a href="http://lanyrd.com/profile/samkap/">Meeting up on Lanyard</a></li>
+      <li><a href="http://www.dribbble.com/samkap">Sketching on Dribbble</a></li>
+      <li><a href="http://www.goodreads.com/samkap">Reading on Goodreads</a></li>
+      <li><a href="http://samkap.vsco.co/">Viewing on VSCO Grid</a></li>
+      <!-- <li><a href="https://www.everlane.com/n/sl6ruw">Buy clothing from Everlane</a> -->
+    </ul>
+    <p><a href="http://www.samkapila.com/journal/feed">RSS</a></p>
+  </div>
