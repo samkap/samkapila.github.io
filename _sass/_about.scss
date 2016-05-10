@@ -1,0 +1,24 @@
+.about {
+  .intro {
+    width: 100%;
+
+    figure {
+      width: 35%;
+     float: left; 
+    }
+    img {
+      max-width:100%;
+    }
+    p {
+     width: 60%;
+     margin-left: 5%;
+     float: left; 
+     margin-top: 0;
+    }
+    figcaption {
+      font-size: 50%;
+      margin-top: 15px;
+      font-style: italic;
+    }
+  }
+}
