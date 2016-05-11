@@ -1,15 +1,8 @@
 ---
 layout: post
-title: Students On Critiquing
-date: 2013-09-18
-desc: Recently, I asked my students to read an article about critiquing, and then respond to it on our class forum. I was happily surprised by the maturity and honesty of some of the answers and thought I'd share them.
-Tags
-- student-work
-— texas-state
-— process
-— writing
 
 ---
+
 Over two years ago, I wrote developed the new curriculum for my department's ARTC4308 course. Interactive II covers advanced topics in web design including web typography, Responsive Web Design, and an intro to CMSs, as well as introducing students to the professional practices involved with designing, coding, and presenting websites. To kick off the course, every semester, students read Cassie McDaniel’s article [Design Criticism and the Creative Process][1] as the first reading/response assignment. This fall semester is no different. Last week, I assigned it, as usual, and sent students on their way to a long Labor Day weekend. While I’m always impressed with the responses, I thought I would share some of the responses made by students this semester that really stood out.
 ### Kristin N
 I think this article could easily have been titled "How to Critique Without Unintentionally Being a Jerk," because though a lot of what Cassie McDaniels says in this article seems like common sense, it's said in a very straight forward way that I hadn't thought of before...I think a lot of us see starting over as some sort of failure, and a frustration that isn't worth scratching the first try for. But more often than not the second go around will be much more in line with your initial goals because you will have already done it the wrong way once, and won't make those mistakes twice.

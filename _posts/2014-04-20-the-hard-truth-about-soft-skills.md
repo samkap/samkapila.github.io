@@ -1,13 +1,12 @@
 ﻿---
 layout: post
 title: The Hard Truth about Soft Skills
-
 date: 2014-04-20
 desc: Soft skills are a missing part of a young designer's education. What do they need to know? And how can they find out sooner?
 Tags: education,community,design,productivity,writing,articles,quotes
+--- 
 
-
---- When young designers enter the workplace, they are expected to have hard and soft skills. The hard skills are the technical parts of being a designer; how to work between programs, save a file, mount projects, etc. Soft skills include how to apply for jobs, communicating with professionals and clients, how to explain concepts, etc. The spring semester ends this week, as does my Senior Portfolio Review course, which includes frequent discussions of those hard and soft skills. In the capstone class, students polish their portfolios for the intent of getting a design job and prepare themselves for the design industry. In addition, we've been discussing cover letters, interviews, and résumés as well. It's not an easy class to take—or teach, for that matter. 
+When young designers enter the workplace, they are expected to have hard and soft skills. The hard skills are the technical parts of being a designer; how to work between programs, save a file, mount projects, etc. Soft skills include how to apply for jobs, communicating with professionals and clients, how to explain concepts, etc. The spring semester ends this week, as does my Senior Portfolio Review course, which includes frequent discussions of those hard and soft skills. In the capstone class, students polish their portfolios for the intent of getting a design job and prepare themselves for the design industry. In addition, we've been discussing cover letters, interviews, and résumés as well. It's not an easy class to take—or teach, for that matter. 
 
 As I look back at the past four months of the semester, and the years I've been teaching, I've realized that students are not learning as much as they should about soft skills, and it's not an isolated to one program or one school. *Time* recently released an article confirming my suspicion, titled "The Real Reason New College Grads Can’t Get Hired". In the article, Martha C. White writes
 >Overwhelmingly, [employers] want candidates who are team players, problem solvers and can plan, organize and prioritize their work. Technical and computer-related know-how placed much further down the list.

@@ -2,13 +2,8 @@
 layout: post
 title: Five Lessons from the RWD Classroom
 date: 2013-09-20
-desc: I decided to post the 5 Lessons article, while net Magazine transitions to it's new home at Creative Bloq
-tags:  
-- rwd
-— writing
-— articles
-— texas-state
-category: notes
+
+
 ---
 
 I’ve taught Responsive Web Design (RWD) at a large state university just outside Austin, Texas, for the past two years to almost 200 design students. With support from my colleagues and a handful of designers and agencies in Austin providing priceless input, writing the curriculum for the course was exciting, but not easy. I wanted to make sure that I had a solid curriculum in place that, like its subject matter, could be fluid and iteratively developed to reflect the industry’s needs. I also wanted to have a component where students meet professionals and participate in internships so a big part of the course work includes opportunities to learn from and work with industry professionals in Austin and beyond. Our program also has a modest device lab that fits perfectly into a custom-built briefcase. All these elements together provide what I think is a real-world experience for my students—and I want to keep taking it further.</p>
