@@ -1,8 +1,8 @@
 ---
-title: Easy Steps to Logo Design
+title: Cool Newsletter
 category: clips
-date: 2016-05-11
+date: 2016-05-31
 layout: post
 ---
 
-[Easy Steps to Better Logo Design](https://www.smashingmagazine.com/2016/05/easy-steps-to-better-logo-design/) via the lovely folks at Smashing Magazine.
+I found a new cool newsletter.
