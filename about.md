@@ -3,7 +3,8 @@ layout: about
 title: About
 ---
 
-Hi! I’m Sam Kapila. I’m a designer, educator, and person living in Austin, TX with two cats and a lot of coffee. I’m the Director of Instruction at [The Iron Yard](http://www.theironyard.com). I like to spend a lot of time with responsive web design, web typography, podcasting and speaking about design, and cooking. I grew up on the Dutch island of Curaçao, and have lived in India, Florida, South Carolina, and Greece. 
+
+Here's a [list of things I recommend or enjoy](/recommend.html).
 
 ---
 

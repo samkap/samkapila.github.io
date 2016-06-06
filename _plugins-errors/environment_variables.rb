@@ -1,0 +1,1 @@
+{"data":{"id":"1cf909d5fa4ce63d44451e41631f646b9644ce5a3c6c356cad5268ef8a413ff46","username":"samkap","name":"Sam Kap","url":"https://medium.com/@samkap","imageUrl":"https://cdn-images-1.medium.com/fit/c/200/200/0*lQ6ESFSTgESS2ZJ5.jpeg"}}
