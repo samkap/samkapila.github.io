@@ -30,8 +30,8 @@ $gray: #F6F6F6;
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  
-  box-sizing: border-box; 
+
+  box-sizing: border-box;
 }
 
 /* Content */
@@ -119,6 +119,7 @@ h1, h2, h3, h4, h5, h6 {
   word-wrap: break-word;
   word-spacing: normal;
   letter-spacing: normal;
+  margin-bottom: .5em;
 }
 h1 {
   font-size: 2.1em;
@@ -134,7 +135,7 @@ h3, h4, h5, h6 {
   margin-bottom: 30px;
 }
 .meta {
-  color: $gray;
+  color: $color2;
   display: block;
   margin-bottom: 10px;
   font-weight: 400;
@@ -388,7 +389,7 @@ nav a {
   border-radius: 4px;
   overflow: hidden;
   position: relative;
-  color: rgba(0, 206, 203, 100); 
+  color: rgba(0, 206, 203, 100);
 }
 nav a:hover {
   color: $theme;
@@ -452,17 +453,15 @@ nav a.current {
   }
   h1 {
     font-size: 2.6em;
-    margin-bottom: -10px;
   }
   h2 {
     font-size: 1.8em;
     margin-top: 60px;
-    margin-bottom: -10px;
+
   }
   h3, h4, h5, h6 {
     font-size: 1.2em;
     margin-top: 60px;
-    margin-bottom: -10px;
     color: $color4;
   }
   .img-only {
@@ -513,10 +512,10 @@ nav a.current {
     }
   }
   .recent-posts {
-    display: flex; 
+    display: flex;
     justify-content: space-between;
     padding-top: 1em;
- 
+
 
     /*flex-wrap: wrap;*/
 
@@ -527,10 +526,9 @@ nav a.current {
           width: 30%;
           flex: 1;
                 margin: 0 20px;
-          
+
           h1 {
             font-size: 90%;
-            margin-bottom: -30px;
           }
           p {
             font-size: 75%;
