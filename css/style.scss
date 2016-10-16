@@ -244,7 +244,18 @@ hr {
 }
 
 /* Structure */
+.inline-container {
+  overflow: hidden;
+}
 
+.inline {
+  display: inline !important;
+  vertical-align: middle;
+  margin-right: 40px;
+}
+.inline:first-of-type {
+  min-height: 50px;
+}
 .wrap {
   margin: 0 auto;
   padding: 0 15px;

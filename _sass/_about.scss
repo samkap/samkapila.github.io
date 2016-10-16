@@ -1,4 +1,5 @@
 .about {
+  font-size: 72%;
   .intro {
     width: 100%;
 
@@ -15,10 +16,26 @@
      float: left; 
      margin-top: 0;
     }
+    .bold {
+      font-weight: bold;
+    }
     figcaption {
       font-size: 50%;
       margin-top: 15px;
       font-style: italic;
     }
   }
+
 }
+
+.about-detail {
+    li {
+    font-size: 60%;
+      a {
+        font-size: 150%;
+        }
+    }
+}
+
+
+

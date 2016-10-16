@@ -3,16 +3,21 @@ layout: about
 title: About
 ---
 
-
-Here's a [list of things I recommend or enjoy](/recommend.html).
+<!-- Here's a [list of things I recommend or enjoy](/recommend.html). -->
 
 ---
 
-### Currently Eating:
+<h2>Status Update</h2>
 
-Home-made naan pizza
 
-### Currently Reading:
+
+<div class="inline-container"><h3 class="inline">Currently Eating:</h3>
+
+<p class="inline">Old Bay Pizza from Pie Five in Baltimore. Crab pizza topped with Old Bay seasoning </p>
+</div>
+
+<div class="inline-container">
+<h3  class="inline">Currently Reading:</h3>
 
 <style>
 .gr_grid_container {
@@ -26,7 +31,7 @@ padding: 30px 0px;
 overflow: hidden;
 }
 </style>
-<div id="gr_grid_widget_1403892312">
+<div id="gr_grid_widget_1403892312 online">
 <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
 <div class="gr_grid_container">
 <div class="gr_grid_book_container"><a href="https://www.goodreads.com/book/show/17860739-s" title="S."><img alt="books I'm reading" src="https://d.gr-assets.com/books/1378767595m/17860739.jpg" /></a></div>
@@ -34,16 +39,17 @@ overflow: hidden;
 </div>
 </div>
 <script src="https://www.goodreads.com/review/grid_widget/8459271.samkap's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1403892312" type="text/javascript" charset="utf-8"></script>
-
+</div>
 ---
 
 I speak and write about design and design education. Here’s some of that: 
 
 
-<div class="about">
+<div class="about-detail">
 <h3>Speaking</h3>
 <ul>
 <li><a href="http://www.designcontentconf.com/" class="bold">Design/Content</a>, July 2016, Vancover, BC, Canada</li>
+<li><a href="http://www.frontenddesignconference.com/" class="bold">Front End Design Conference</a>, June 2016, St Pete, Florida</li>
 <li><a class="bold" href="https://www.eventbrite.com/e/refresh-columbia-november-2014-registration-14328658403">Refresh Columbia</a>, Nov 2014, Speaker, “Design Research”</li>
 <li><a class="bold" href="http://www.convergefl.com">ConvergeFL</a>, Nov 2014, Keynote, “The (hover) state of web design education” </li>
 <li><a class="bold" href="http://www.tennshow2014.com">AIGA Tenn Show 2014</a>, Oct 2014, Judge and Guest Speaker</li>
@@ -79,7 +85,8 @@ I speak and write about design and design education. Here’s some of that:
 
 <h3>Interviews</h3>
 <ul>
-<li><a href="http://funsize.co/hustle" class="bold">Hustle Podcast</a>, [coming soon, February 2016]</li>
+<li><a href="http://funsize.co/hustle" class="bold">Hustle Podcast</a>, Feb 2016</li>
+<li><a href="#" class="bold">Buck's Nashville show</a></li>
 <li> <a class="bold" href="http://www.shoptalkshow.com/episodes/121-sam-kapila/" target="_blank">ShopTalk Show</a>, June 2014</li>
 <li><a class="bold" href="http://goodstuff.fm/smym/39" target="_blank">Show Me Your Mic</a>, Mar 2014</li>
 <li><a class="bold" href="http://atxwebshow.com/2013/05/16/64-with-sam-kapila/" target="_blank">The ATX Web Show</a>, May 2013</li>
