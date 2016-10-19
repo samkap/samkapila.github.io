@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Sam Kapila 
+name: Sam Kapila
 
 description:
 
@@ -23,7 +23,7 @@ author:
   info:
 
 url: http://samkapila.com
-baseurl: 
+baseurl:
 
 # language attribute in <html> element.
 lang: en
@@ -136,7 +136,7 @@ var_your_message: Your message
 # You don't have to change these.
 
 exclude: [vendor]
-highlighter: pygments
+highlighter: rogue
 kramdown:
   input: GFM
 paginate_path: "/page-:num/"
