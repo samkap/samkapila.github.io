@@ -2,6 +2,23 @@
 ---
 @import "../_sass/reset";
 
+.floral {
+  // float: left;
+  background: url(../img/floral.png) repeat;
+  // background-attachment: fixed;
+  background-size: 100%;
+  height: 100%;
+  position: fixed;
+  width: 20%;
+  top: 0;
+  bottom: 0;
+}
+
+.main {
+  float: left;
+  // margin-left:20%;
+  width: 100%; // was 80% when there was a pattern present. find new pattern then fix.
+}
 
 $theme: #6d6d6d;
 $color1: #004A55; // dark blue
@@ -411,6 +428,17 @@ nav a.current {
 //   background-image: linear-gradient(rgba({{ site.text-color }},.5),rgba({{ site.text-color }},.5));
 // }
 
+  .recent {
+    display:block;
+        background: #DBE8E8;
+    padding: .5em 3%;
+    flex: 1;
+
+    .meta {
+      color: $color1;
+    }
+  }
+
 
 /* Structure overwrites */
 
@@ -424,7 +452,7 @@ nav a.current {
 }
 @media all and (min-width: 500px) {
   .wrap {
-    padding: 0 30px;
+    // padding: 0 30px;
   }
   footer .inner {
     padding: 0 30px;
@@ -501,22 +529,17 @@ nav a.current {
   h1 {
     font-size: 2.9em;
   }
-  .gray {
-    display:block;
-        background: #F6F6F6;
-    padding: .5em 3%;
-       border-top: 1px solid $theme;
-  border-bottom: 1px solid $theme;
+  .recent {
     h3 {
-      margin-left: 20px;
+      text-align: center;
       margin-bottom: .5em;
+      color: $color1;
     }
-  }
   .recent-posts {
     display: flex;
     justify-content: space-between;
     padding-top: 1em;
-
+  }
 
 
     /*flex-wrap: wrap;*/
@@ -527,8 +550,6 @@ nav a.current {
           /*flex-grow: 1;*/
           width: 30%;
           flex: 1;
-                margin: 0 20px;
-
           h1 {
             font-size: 90%;
           }
