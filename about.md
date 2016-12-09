@@ -7,42 +7,18 @@ title: About
 
 ---
 
-<h2>Status Update</h2>
+<h3>Status Update</h3>
 
 
 
-<div class="inline-container"><h3 class="inline">Currently Eating:</h3>
-
-<p class="inline">Old Bay Pizza from Pie Five in Baltimore. Crab pizza topped with Old Bay seasoning </p>
+<div class="inline-container"><p class="inline">Currently Eating: Tikka veggies and rice from Clay Pit </p>
 </div>
-
 <div class="inline-container">
-<h3  class="inline">Currently Reading:</h3>
-
-<style>
-.gr_grid_container {
-/* customize grid container div here. eg: width: 500px; */
-}
-.gr_grid_book_container {
-/* customize book cover container div here */
-width: 98px;
-height: 160px;
-padding: 30px 0px;
-overflow: hidden;
-}
-</style>
-<div id="gr_grid_widget_1403892312 online">
-<!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
-<div class="gr_grid_container">
-<div class="gr_grid_book_container"><a href="https://www.goodreads.com/book/show/17860739-s" title="S."><img alt="books I'm reading" src="https://d.gr-assets.com/books/1378767595m/17860739.jpg" /></a></div>
-<noscript><br/>Share <a href="/">book reviews</a> and ratings with samkap, and even join a <a href="https://www.goodreads.com/group">book club</a> on Goodreads.</noscript>
-</div>
-</div>
-<script src="https://www.goodreads.com/review/grid_widget/8459271.samkap's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1403892312" type="text/javascript" charset="utf-8"></script>
+<p class="inline">Currently Reading: Hidden Figures</p>
 </div>
 ---
 
-I speak and write about design and design education. Here’s some of that: 
+I speak and write about design and design education. Here’s some of that:
 
 
 <div class="about-detail">

@@ -1,11 +1,11 @@
 .about {
-  font-size: 72%;
+  // font-size: 72%;
   .intro {
     width: 100%;
 
     figure {
       width: 35%;
-     float: left; 
+     float: left;
     }
     img {
       max-width:100%;
@@ -13,7 +13,7 @@
     p {
      width: 60%;
      margin-left: 5%;
-     float: left; 
+     float: left;
      margin-top: 0;
     }
     .bold {
@@ -30,9 +30,9 @@
 
 .about-detail {
     li {
-    font-size: 60%;
+    font-size: 75%;
       a {
-        font-size: 150%;
+        font-size: 125%;
         }
     }
 }
